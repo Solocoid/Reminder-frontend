@@ -1,0 +1,1 @@
+export const BACKEND_URL = "mongodb+srv://hackoid:QqgXfS8g81Fh4EC0@cluster0.boz3z.mongodb.net/"
